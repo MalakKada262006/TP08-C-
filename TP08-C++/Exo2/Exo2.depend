@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1793204030 source:c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumieredirectionnelle.cpp
+	"LumiereDirectionnelle.hpp"
+
+1793203996 c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumieredirectionnelle.hpp
+	"Lumiere.hpp"
+
+1793203956 c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumiere.hpp
+	"Vec3.hpp"
+
+1793203917 c:\users\cli\onedrive\desktop\tp08-c++\exo2\vec3.hpp
+	<cmath>
+
+1793203764 source:c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumierespot.cpp
+	"LumiereSpot.hpp"
+	<cmath>
+
+1793203801 c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumierespot.hpp
+	"Lumiere.hpp"
+
+1793204255 source:c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumiereponctuelle.cpp
+	"LumierePonctuelle.hpp"
+
+1793204429 c:\users\cli\onedrive\desktop\tp08-c++\exo2\lumiereponctuelle.hpp
+	"Lumiere.hpp"
+
+1793204629 source:c:\users\cli\onedrive\desktop\tp08-c++\exo2\main.cpp
+	"LumiereDirectionnelle.hpp"
+	"LumierePonctuelle.hpp"
+	"LumiereSpot.hpp"
+	<iostream>
+	<vector>
+	<memory>
+	<windows.h>
+

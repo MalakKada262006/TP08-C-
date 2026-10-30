@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1793205156 source:c:\users\cli\onedrive\desktop\tp08-c++\exo3\analyseurstyle.cpp
+	"AnalyseurStyle.hpp"
+
+1793205192 c:\users\cli\onedrive\desktop\tp08-c++\exo3\analyseurstyle.hpp
+	"Plugin.hpp"
+
+1793205439 c:\users\cli\onedrive\desktop\tp08-c++\exo3\plugin.hpp
+	<string>
+	<memory>
+
+1793205332 source:c:\users\cli\onedrive\desktop\tp08-c++\exo3\correcteurorthographique.cpp
+	"CorrecteurOrthographique.hpp"
+
+1793205363 c:\users\cli\onedrive\desktop\tp08-c++\exo3\correcteurorthographique.hpp
+	"Plugin.hpp"
+
+1793205112 source:c:\users\cli\onedrive\desktop\tp08-c++\exo3\main.cpp
+	"Plugin.hpp"
+	<iostream>
+	<vector>
+	<memory>
+	<windows.h>
+
+1793205390 source:c:\users\cli\onedrive\desktop\tp08-c++\exo3\plugin.cpp
+	"Plugin.hpp"
+	"CorrecteurOrthographique.hpp"
+	"TraducteurAnglais.hpp"
+	"AnalyseurStyle.hpp"
+
+1793205278 c:\users\cli\onedrive\desktop\tp08-c++\exo3\traducteuranglais.hpp
+	"Plugin.hpp"
+
+1793205227 source:c:\users\cli\onedrive\desktop\tp08-c++\exo3\traducteuranglais.cpp
+	"TraducteurAnglais.hpp"
+
